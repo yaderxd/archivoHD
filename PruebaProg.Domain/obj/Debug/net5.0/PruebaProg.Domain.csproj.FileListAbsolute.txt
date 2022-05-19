@@ -1,0 +1,15 @@
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\bin\Debug\net5.0\PruebaProg.Domain.deps.json
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\bin\Debug\net5.0\PruebaProg.Domain.dll
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\bin\Debug\net5.0\PruebaProg.Domain.pdb
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\obj\Debug\net5.0\PruebaProg.Domain.csproj.AssemblyReference.cache
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\obj\Debug\net5.0\PruebaProg.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\obj\Debug\net5.0\PruebaProg.Domain.AssemblyInfoInputs.cache
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\obj\Debug\net5.0\PruebaProg.Domain.AssemblyInfo.cs
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\obj\Debug\net5.0\PruebaProg.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\obj\Debug\net5.0\PruebaProg.Domain.dll
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\obj\Debug\net5.0\PruebaProg.Domain.pdb
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\obj\Debug\net5.0\ref\PruebaProg.Domain.dll
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\bin\Debug\net5.0\PruebaProg.Domain.runtimeconfig.json
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\bin\Debug\net5.0\PruebaProg.Domain.runtimeconfig.dev.json
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\obj\Debug\net5.0\PruebaProg.Domain.genruntimeconfig.cache
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Domain\obj\Debug\net5.0\refint\PruebaProg.Domain.dll
