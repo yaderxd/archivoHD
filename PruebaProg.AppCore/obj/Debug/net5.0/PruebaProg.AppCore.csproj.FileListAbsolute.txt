@@ -1,0 +1,15 @@
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\bin\Debug\net5.0\PruebaProg.AppCore.deps.json
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\bin\Debug\net5.0\PruebaProg.AppCore.runtimeconfig.json
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\bin\Debug\net5.0\PruebaProg.AppCore.runtimeconfig.dev.json
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\bin\Debug\net5.0\PruebaProg.AppCore.dll
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\bin\Debug\net5.0\ref\PruebaProg.AppCore.dll
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\bin\Debug\net5.0\PruebaProg.AppCore.pdb
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\obj\Debug\net5.0\PruebaProg.AppCore.csproj.AssemblyReference.cache
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\obj\Debug\net5.0\PruebaProg.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\obj\Debug\net5.0\PruebaProg.AppCore.AssemblyInfoInputs.cache
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\obj\Debug\net5.0\PruebaProg.AppCore.AssemblyInfo.cs
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\obj\Debug\net5.0\PruebaProg.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\obj\Debug\net5.0\PruebaProg.AppCore.dll
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\obj\Debug\net5.0\ref\PruebaProg.AppCore.dll
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\obj\Debug\net5.0\PruebaProg.AppCore.pdb
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.AppCore\obj\Debug\net5.0\PruebaProg.AppCore.genruntimeconfig.cache
