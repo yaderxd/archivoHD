@@ -1,0 +1,14 @@
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\bin\Debug\net5.0\PruebaProg.Infraesturcture.deps.json
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\bin\Debug\net5.0\PruebaProg.Infraesturcture.runtimeconfig.json
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\bin\Debug\net5.0\PruebaProg.Infraesturcture.runtimeconfig.dev.json
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\bin\Debug\net5.0\PruebaProg.Infraesturcture.dll
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\bin\Debug\net5.0\ref\PruebaProg.Infraesturcture.dll
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\bin\Debug\net5.0\PruebaProg.Infraesturcture.pdb
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\obj\Debug\net5.0\PruebaProg.Infraesturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\obj\Debug\net5.0\PruebaProg.Infraesturcture.AssemblyInfoInputs.cache
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\obj\Debug\net5.0\PruebaProg.Infraesturcture.AssemblyInfo.cs
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\obj\Debug\net5.0\PruebaProg.Infraesturcture.csproj.CoreCompileInputs.cache
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\obj\Debug\net5.0\PruebaProg.Infraesturcture.dll
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\obj\Debug\net5.0\ref\PruebaProg.Infraesturcture.dll
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\obj\Debug\net5.0\PruebaProg.Infraesturcture.pdb
+C:\Users\JADPA01\source\repos\PruebaProg\PruebaProg.Infraesturcture\obj\Debug\net5.0\PruebaProg.Infraesturcture.genruntimeconfig.cache
